@@ -1,0 +1,3001 @@
+prompts,answers
+"Question: What is the sum of 2900 and 6435?
+
+Answer: ",9335
+"Question: What is the sum of 4612 and 2446?
+
+Answer: ",7058
+"Question: What is the sum of 1336 and 7719?
+
+Answer: ",9055
+"Question: What is the sum of 1726 and 1573?
+
+Answer: ",3299
+"Question: What is the sum of 8002 and 1699?
+
+Answer: ",9701
+"Question: What is the sum of 4529 and 9540?
+
+Answer: ",14069
+"Question: What is the sum of 4598 and 5269?
+
+Answer: ",9867
+"Question: What is the sum of 4851 and 3863?
+
+Answer: ",8714
+"Question: What is the sum of 2443 and 7706?
+
+Answer: ",10149
+"Question: What is the sum of 5062 and 9795?
+
+Answer: ",14857
+"Question: What is the sum of 6118 and 8733?
+
+Answer: ",14851
+"Question: What is the sum of 1004 and 4645?
+
+Answer: ",5649
+"Question: What is the sum of 1635 and 1339?
+
+Answer: ",2974
+"Question: What is the sum of 2097 and 9069?
+
+Answer: ",11166
+"Question: What is the sum of 5085 and 9643?
+
+Answer: ",14728
+"Question: What is the sum of 3574 and 3297?
+
+Answer: ",6871
+"Question: What is the sum of 2114 and 2085?
+
+Answer: ",4199
+"Question: What is the sum of 6676 and 1438?
+
+Answer: ",8114
+"Question: What is the sum of 4788 and 6075?
+
+Answer: ",10863
+"Question: What is the sum of 6785 and 3916?
+
+Answer: ",10701
+"Question: What is the sum of 8547 and 9522?
+
+Answer: ",18069
+"Question: What is the sum of 8659 and 4036?
+
+Answer: ",12695
+"Question: What is the sum of 6786 and 1314?
+
+Answer: ",8100
+"Question: What is the sum of 6804 and 7081?
+
+Answer: ",13885
+"Question: What is the sum of 5837 and 9978?
+
+Answer: ",15815
+"Question: What is the sum of 6577 and 9633?
+
+Answer: ",16210
+"Question: What is the sum of 5971 and 7561?
+
+Answer: ",13532
+"Question: What is the sum of 2565 and 2884?
+
+Answer: ",5449
+"Question: What is the sum of 6824 and 3798?
+
+Answer: ",10622
+"Question: What is the sum of 1147 and 7729?
+
+Answer: ",8876
+"Question: What is the sum of 3042 and 8721?
+
+Answer: ",11763
+"Question: What is the sum of 4913 and 5556?
+
+Answer: ",10469
+"Question: What is the sum of 5003 and 5755?
+
+Answer: ",10758
+"Question: What is the sum of 7985 and 3593?
+
+Answer: ",11578
+"Question: What is the sum of 7021 and 7684?
+
+Answer: ",14705
+"Question: What is the sum of 9802 and 4110?
+
+Answer: ",13912
+"Question: What is the sum of 8682 and 4541?
+
+Answer: ",13223
+"Question: What is the sum of 4753 and 9519?
+
+Answer: ",14272
+"Question: What is the sum of 1443 and 9637?
+
+Answer: ",11080
+"Question: What is the sum of 5846 and 3753?
+
+Answer: ",9599
+"Question: What is the sum of 4833 and 8756?
+
+Answer: ",13589
+"Question: What is the sum of 7960 and 9542?
+
+Answer: ",17502
+"Question: What is the sum of 6129 and 1645?
+
+Answer: ",7774
+"Question: What is the sum of 9810 and 3508?
+
+Answer: ",13318
+"Question: What is the sum of 7364 and 2695?
+
+Answer: ",10059
+"Question: What is the sum of 3481 and 8311?
+
+Answer: ",11792
+"Question: What is the sum of 4125 and 4654?
+
+Answer: ",8779
+"Question: What is the sum of 3036 and 8757?
+
+Answer: ",11793
+"Question: What is the sum of 7913 and 6165?
+
+Answer: ",14078
+"Question: What is the sum of 7425 and 4901?
+
+Answer: ",12326
+"Question: What is the sum of 1268 and 5569?
+
+Answer: ",6837
+"Question: What is the sum of 1120 and 3801?
+
+Answer: ",4921
+"Question: What is the sum of 1254 and 2110?
+
+Answer: ",3364
+"Question: What is the sum of 6882 and 3040?
+
+Answer: ",9922
+"Question: What is the sum of 7158 and 1099?
+
+Answer: ",8257
+"Question: What is the sum of 7239 and 4177?
+
+Answer: ",11416
+"Question: What is the sum of 5258 and 7412?
+
+Answer: ",12670
+"Question: What is the sum of 8082 and 4469?
+
+Answer: ",12551
+"Question: What is the sum of 6775 and 2642?
+
+Answer: ",9417
+"Question: What is the sum of 1709 and 8443?
+
+Answer: ",10152
+"Question: What is the sum of 1621 and 1638?
+
+Answer: ",3259
+"Question: What is the sum of 8095 and 1217?
+
+Answer: ",9312
+"Question: What is the sum of 2238 and 9283?
+
+Answer: ",11521
+"Question: What is the sum of 4104 and 4416?
+
+Answer: ",8520
+"Question: What is the sum of 1253 and 4715?
+
+Answer: ",5968
+"Question: What is the sum of 2103 and 4057?
+
+Answer: ",6160
+"Question: What is the sum of 7820 and 7692?
+
+Answer: ",15512
+"Question: What is the sum of 6763 and 8922?
+
+Answer: ",15685
+"Question: What is the sum of 8920 and 1213?
+
+Answer: ",10133
+"Question: What is the sum of 4752 and 8904?
+
+Answer: ",13656
+"Question: What is the sum of 2411 and 2520?
+
+Answer: ",4931
+"Question: What is the sum of 4997 and 7976?
+
+Answer: ",12973
+"Question: What is the sum of 7838 and 8840?
+
+Answer: ",16678
+"Question: What is the sum of 1707 and 9596?
+
+Answer: ",11303
+"Question: What is the sum of 7922 and 1251?
+
+Answer: ",9173
+"Question: What is the sum of 7769 and 3199?
+
+Answer: ",10968
+"Question: What is the sum of 9921 and 3724?
+
+Answer: ",13645
+"Question: What is the sum of 7334 and 4790?
+
+Answer: ",12124
+"Question: What is the sum of 5770 and 8083?
+
+Answer: ",13853
+"Question: What is the sum of 4760 and 1050?
+
+Answer: ",5810
+"Question: What is the sum of 9927 and 7210?
+
+Answer: ",17137
+"Question: What is the sum of 2519 and 6180?
+
+Answer: ",8699
+"Question: What is the sum of 8809 and 8250?
+
+Answer: ",17059
+"Question: What is the sum of 9216 and 5094?
+
+Answer: ",14310
+"Question: What is the sum of 2259 and 2847?
+
+Answer: ",5106
+"Question: What is the sum of 2622 and 3707?
+
+Answer: ",6329
+"Question: What is the sum of 5628 and 5478?
+
+Answer: ",11106
+"Question: What is the sum of 5704 and 1877?
+
+Answer: ",7581
+"Question: What is the sum of 8038 and 3868?
+
+Answer: ",11906
+"Question: What is the sum of 9690 and 2197?
+
+Answer: ",11887
+"Question: What is the sum of 1686 and 2232?
+
+Answer: ",3918
+"Question: What is the sum of 4433 and 6918?
+
+Answer: ",11351
+"Question: What is the sum of 7455 and 1288?
+
+Answer: ",8743
+"Question: What is the sum of 5572 and 3697?
+
+Answer: ",9269
+"Question: What is the sum of 3408 and 4995?
+
+Answer: ",8403
+"Question: What is the sum of 6345 and 2494?
+
+Answer: ",8839
+"Question: What is the sum of 2233 and 9590?
+
+Answer: ",11823
+"Question: What is the sum of 2883 and 8237?
+
+Answer: ",11120
+"Question: What is the sum of 5291 and 3026?
+
+Answer: ",8317
+"Question: What is the sum of 6481 and 2322?
+
+Answer: ",8803
+"Question: What is the sum of 2868 and 8609?
+
+Answer: ",11477
+"Question: What is the sum of 4851 and 8169?
+
+Answer: ",13020
+"Question: What is the sum of 3105 and 4649?
+
+Answer: ",7754
+"Question: What is the sum of 6844 and 9339?
+
+Answer: ",16183
+"Question: What is the sum of 5844 and 3073?
+
+Answer: ",8917
+"Question: What is the sum of 2243 and 1598?
+
+Answer: ",3841
+"Question: What is the sum of 1608 and 7869?
+
+Answer: ",9477
+"Question: What is the sum of 6117 and 5339?
+
+Answer: ",11456
+"Question: What is the sum of 2144 and 3984?
+
+Answer: ",6128
+"Question: What is the sum of 2116 and 6453?
+
+Answer: ",8569
+"Question: What is the sum of 3937 and 1454?
+
+Answer: ",5391
+"Question: What is the sum of 7618 and 3056?
+
+Answer: ",10674
+"Question: What is the sum of 6496 and 6500?
+
+Answer: ",12996
+"Question: What is the sum of 2036 and 9031?
+
+Answer: ",11067
+"Question: What is the sum of 5294 and 7723?
+
+Answer: ",13017
+"Question: What is the sum of 9404 and 7637?
+
+Answer: ",17041
+"Question: What is the sum of 7177 and 8001?
+
+Answer: ",15178
+"Question: What is the sum of 2657 and 1042?
+
+Answer: ",3699
+"Question: What is the sum of 1491 and 4488?
+
+Answer: ",5979
+"Question: What is the sum of 1043 and 4924?
+
+Answer: ",5967
+"Question: What is the sum of 4162 and 7112?
+
+Answer: ",11274
+"Question: What is the sum of 7484 and 5703?
+
+Answer: ",13187
+"Question: What is the sum of 3691 and 1193?
+
+Answer: ",4884
+"Question: What is the sum of 5249 and 2278?
+
+Answer: ",7527
+"Question: What is the sum of 3866 and 2545?
+
+Answer: ",6411
+"Question: What is the sum of 8596 and 2476?
+
+Answer: ",11072
+"Question: What is the sum of 7193 and 1100?
+
+Answer: ",8293
+"Question: What is the sum of 8890 and 2060?
+
+Answer: ",10950
+"Question: What is the sum of 7743 and 3164?
+
+Answer: ",10907
+"Question: What is the sum of 7331 and 5918?
+
+Answer: ",13249
+"Question: What is the sum of 7152 and 9441?
+
+Answer: ",16593
+"Question: What is the sum of 6831 and 8013?
+
+Answer: ",14844
+"Question: What is the sum of 3234 and 1984?
+
+Answer: ",5218
+"Question: What is the sum of 3856 and 3529?
+
+Answer: ",7385
+"Question: What is the sum of 5546 and 5914?
+
+Answer: ",11460
+"Question: What is the sum of 9318 and 5936?
+
+Answer: ",15254
+"Question: What is the sum of 1362 and 4485?
+
+Answer: ",5847
+"Question: What is the sum of 2784 and 1487?
+
+Answer: ",4271
+"Question: What is the sum of 9899 and 6678?
+
+Answer: ",16577
+"Question: What is the sum of 8090 and 3828?
+
+Answer: ",11918
+"Question: What is the sum of 7670 and 7165?
+
+Answer: ",14835
+"Question: What is the sum of 7348 and 2505?
+
+Answer: ",9853
+"Question: What is the sum of 5319 and 8639?
+
+Answer: ",13958
+"Question: What is the sum of 1573 and 6782?
+
+Answer: ",8355
+"Question: What is the sum of 7713 and 4200?
+
+Answer: ",11913
+"Question: What is the sum of 7644 and 2733?
+
+Answer: ",10377
+"Question: What is the sum of 5339 and 8968?
+
+Answer: ",14307
+"Question: What is the sum of 9372 and 6578?
+
+Answer: ",15950
+"Question: What is the sum of 3470 and 8271?
+
+Answer: ",11741
+"Question: What is the sum of 8009 and 3959?
+
+Answer: ",11968
+"Question: What is the sum of 8558 and 2858?
+
+Answer: ",11416
+"Question: What is the sum of 1460 and 3461?
+
+Answer: ",4921
+"Question: What is the sum of 1400 and 5468?
+
+Answer: ",6868
+"Question: What is the sum of 8592 and 1592?
+
+Answer: ",10184
+"Question: What is the sum of 4351 and 8601?
+
+Answer: ",12952
+"Question: What is the sum of 9206 and 4012?
+
+Answer: ",13218
+"Question: What is the sum of 4532 and 8570?
+
+Answer: ",13102
+"Question: What is the sum of 7183 and 5151?
+
+Answer: ",12334
+"Question: What is the sum of 2451 and 6014?
+
+Answer: ",8465
+"Question: What is the sum of 6907 and 5375?
+
+Answer: ",12282
+"Question: What is the sum of 5761 and 3492?
+
+Answer: ",9253
+"Question: What is the sum of 4565 and 3718?
+
+Answer: ",8283
+"Question: What is the sum of 6535 and 4499?
+
+Answer: ",11034
+"Question: What is the sum of 3783 and 5302?
+
+Answer: ",9085
+"Question: What is the sum of 8982 and 5246?
+
+Answer: ",14228
+"Question: What is the sum of 7437 and 2574?
+
+Answer: ",10011
+"Question: What is the sum of 9805 and 4370?
+
+Answer: ",14175
+"Question: What is the sum of 1121 and 5706?
+
+Answer: ",6827
+"Question: What is the sum of 4297 and 7841?
+
+Answer: ",12138
+"Question: What is the sum of 4177 and 2087?
+
+Answer: ",6264
+"Question: What is the sum of 1421 and 1425?
+
+Answer: ",2846
+"Question: What is the sum of 2484 and 2077?
+
+Answer: ",4561
+"Question: What is the sum of 8702 and 1110?
+
+Answer: ",9812
+"Question: What is the sum of 6180 and 6542?
+
+Answer: ",12722
+"Question: What is the sum of 9558 and 7518?
+
+Answer: ",17076
+"Question: What is the sum of 3313 and 1454?
+
+Answer: ",4767
+"Question: What is the sum of 3795 and 3545?
+
+Answer: ",7340
+"Question: What is the sum of 2888 and 7112?
+
+Answer: ",10000
+"Question: What is the sum of 1853 and 2114?
+
+Answer: ",3967
+"Question: What is the sum of 2080 and 9355?
+
+Answer: ",11435
+"Question: What is the sum of 5838 and 6668?
+
+Answer: ",12506
+"Question: What is the sum of 8092 and 2617?
+
+Answer: ",10709
+"Question: What is the sum of 5456 and 7357?
+
+Answer: ",12813
+"Question: What is the sum of 7317 and 2008?
+
+Answer: ",9325
+"Question: What is the sum of 7628 and 6183?
+
+Answer: ",13811
+"Question: What is the sum of 8763 and 8073?
+
+Answer: ",16836
+"Question: What is the sum of 1576 and 1051?
+
+Answer: ",2627
+"Question: What is the sum of 9572 and 5327?
+
+Answer: ",14899
+"Question: What is the sum of 3195 and 5850?
+
+Answer: ",9045
+"Question: What is the sum of 9105 and 6764?
+
+Answer: ",15869
+"Question: What is the sum of 4807 and 3195?
+
+Answer: ",8002
+"Question: What is the sum of 1169 and 6960?
+
+Answer: ",8129
+"Question: What is the sum of 2981 and 9368?
+
+Answer: ",12349
+"Question: What is the sum of 3207 and 6635?
+
+Answer: ",9842
+"Question: What is the sum of 8843 and 5994?
+
+Answer: ",14837
+"Question: What is the sum of 1207 and 4250?
+
+Answer: ",5457
+"Question: What is the sum of 9792 and 7045?
+
+Answer: ",16837
+"Question: What is the sum of 4106 and 2836?
+
+Answer: ",6942
+"Question: What is the sum of 5124 and 2432?
+
+Answer: ",7556
+"Question: What is the sum of 9822 and 9029?
+
+Answer: ",18851
+"Question: What is the sum of 1286 and 1548?
+
+Answer: ",2834
+"Question: What is the sum of 5780 and 5301?
+
+Answer: ",11081
+"Question: What is the sum of 3825 and 5201?
+
+Answer: ",9026
+"Question: What is the sum of 6686 and 6204?
+
+Answer: ",12890
+"Question: What is the sum of 1313 and 1842?
+
+Answer: ",3155
+"Question: What is the sum of 1793 and 2571?
+
+Answer: ",4364
+"Question: What is the sum of 3316 and 2674?
+
+Answer: ",5990
+"Question: What is the sum of 3305 and 5348?
+
+Answer: ",8653
+"Question: What is the sum of 9364 and 7676?
+
+Answer: ",17040
+"Question: What is the sum of 1424 and 5882?
+
+Answer: ",7306
+"Question: What is the sum of 7695 and 7189?
+
+Answer: ",14884
+"Question: What is the sum of 2866 and 7180?
+
+Answer: ",10046
+"Question: What is the sum of 6834 and 9458?
+
+Answer: ",16292
+"Question: What is the sum of 2010 and 6124?
+
+Answer: ",8134
+"Question: What is the sum of 2585 and 2076?
+
+Answer: ",4661
+"Question: What is the sum of 9440 and 9400?
+
+Answer: ",18840
+"Question: What is the sum of 1100 and 5986?
+
+Answer: ",7086
+"Question: What is the sum of 4453 and 7157?
+
+Answer: ",11610
+"Question: What is the sum of 4341 and 4910?
+
+Answer: ",9251
+"Question: What is the sum of 3384 and 4689?
+
+Answer: ",8073
+"Question: What is the sum of 5189 and 5644?
+
+Answer: ",10833
+"Question: What is the sum of 4457 and 5859?
+
+Answer: ",10316
+"Question: What is the sum of 5788 and 2571?
+
+Answer: ",8359
+"Question: What is the sum of 5019 and 9276?
+
+Answer: ",14295
+"Question: What is the sum of 8341 and 6756?
+
+Answer: ",15097
+"Question: What is the sum of 4565 and 6676?
+
+Answer: ",11241
+"Question: What is the sum of 6536 and 4929?
+
+Answer: ",11465
+"Question: What is the sum of 1855 and 3528?
+
+Answer: ",5383
+"Question: What is the sum of 5540 and 8183?
+
+Answer: ",13723
+"Question: What is the sum of 2635 and 6568?
+
+Answer: ",9203
+"Question: What is the sum of 2070 and 8837?
+
+Answer: ",10907
+"Question: What is the sum of 2162 and 2784?
+
+Answer: ",4946
+"Question: What is the sum of 8716 and 8571?
+
+Answer: ",17287
+"Question: What is the sum of 5548 and 4522?
+
+Answer: ",10070
+"Question: What is the sum of 7465 and 9552?
+
+Answer: ",17017
+"Question: What is the sum of 1164 and 7264?
+
+Answer: ",8428
+"Question: What is the sum of 8470 and 2533?
+
+Answer: ",11003
+"Question: What is the sum of 7146 and 5584?
+
+Answer: ",12730
+"Question: What is the sum of 9700 and 7075?
+
+Answer: ",16775
+"Question: What is the sum of 9731 and 3800?
+
+Answer: ",13531
+"Question: What is the sum of 9317 and 3740?
+
+Answer: ",13057
+"Question: What is the sum of 5445 and 5839?
+
+Answer: ",11284
+"Question: What is the sum of 2768 and 3892?
+
+Answer: ",6660
+"Question: What is the sum of 3923 and 6322?
+
+Answer: ",10245
+"Question: What is the sum of 2040 and 5157?
+
+Answer: ",7197
+"Question: What is the sum of 9918 and 2395?
+
+Answer: ",12313
+"Question: What is the sum of 8524 and 1932?
+
+Answer: ",10456
+"Question: What is the sum of 1898 and 2917?
+
+Answer: ",4815
+"Question: What is the sum of 8276 and 8152?
+
+Answer: ",16428
+"Question: What is the sum of 4995 and 5820?
+
+Answer: ",10815
+"Question: What is the sum of 4667 and 3488?
+
+Answer: ",8155
+"Question: What is the sum of 7855 and 1650?
+
+Answer: ",9505
+"Question: What is the sum of 6607 and 8063?
+
+Answer: ",14670
+"Question: What is the sum of 2065 and 2729?
+
+Answer: ",4794
+"Question: What is the sum of 5224 and 7778?
+
+Answer: ",13002
+"Question: What is the sum of 3610 and 7006?
+
+Answer: ",10616
+"Question: What is the sum of 2287 and 5440?
+
+Answer: ",7727
+"Question: What is the sum of 8716 and 3594?
+
+Answer: ",12310
+"Question: What is the sum of 9452 and 1785?
+
+Answer: ",11237
+"Question: What is the sum of 2368 and 7339?
+
+Answer: ",9707
+"Question: What is the sum of 9373 and 5236?
+
+Answer: ",14609
+"Question: What is the sum of 9931 and 5618?
+
+Answer: ",15549
+"Question: What is the sum of 2698 and 4579?
+
+Answer: ",7277
+"Question: What is the sum of 3327 and 9696?
+
+Answer: ",13023
+"Question: What is the sum of 4321 and 4480?
+
+Answer: ",8801
+"Question: What is the sum of 5440 and 7747?
+
+Answer: ",13187
+"Question: What is the sum of 8541 and 2555?
+
+Answer: ",11096
+"Question: What is the sum of 5634 and 1112?
+
+Answer: ",6746
+"Question: What is the sum of 7945 and 2257?
+
+Answer: ",10202
+"Question: What is the sum of 8935 and 9263?
+
+Answer: ",18198
+"Question: What is the sum of 5927 and 3959?
+
+Answer: ",9886
+"Question: What is the sum of 1576 and 5806?
+
+Answer: ",7382
+"Question: What is the sum of 4809 and 4965?
+
+Answer: ",9774
+"Question: What is the sum of 4582 and 6577?
+
+Answer: ",11159
+"Question: What is the sum of 2721 and 4021?
+
+Answer: ",6742
+"Question: What is the sum of 8080 and 4865?
+
+Answer: ",12945
+"Question: What is the sum of 2466 and 2138?
+
+Answer: ",4604
+"Question: What is the sum of 7908 and 3717?
+
+Answer: ",11625
+"Question: What is the sum of 9990 and 7690?
+
+Answer: ",17680
+"Question: What is the sum of 6927 and 6164?
+
+Answer: ",13091
+"Question: What is the sum of 1569 and 4335?
+
+Answer: ",5904
+"Question: What is the sum of 2784 and 3218?
+
+Answer: ",6002
+"Question: What is the sum of 3774 and 2813?
+
+Answer: ",6587
+"Question: What is the sum of 9800 and 5353?
+
+Answer: ",15153
+"Question: What is the sum of 5016 and 4267?
+
+Answer: ",9283
+"Question: What is the sum of 7073 and 7828?
+
+Answer: ",14901
+"Question: What is the sum of 1110 and 3960?
+
+Answer: ",5070
+"Question: What is the sum of 5732 and 3035?
+
+Answer: ",8767
+"Question: What is the sum of 1875 and 9870?
+
+Answer: ",11745
+"Question: What is the sum of 3266 and 9113?
+
+Answer: ",12379
+"Question: What is the sum of 2950 and 8698?
+
+Answer: ",11648
+"Question: What is the sum of 5931 and 5691?
+
+Answer: ",11622
+"Question: What is the sum of 1991 and 5928?
+
+Answer: ",7919
+"Question: What is the sum of 4392 and 8907?
+
+Answer: ",13299
+"Question: What is the sum of 3932 and 3017?
+
+Answer: ",6949
+"Question: What is the sum of 3156 and 1636?
+
+Answer: ",4792
+"Question: What is the sum of 7371 and 6196?
+
+Answer: ",13567
+"Question: What is the sum of 7713 and 2956?
+
+Answer: ",10669
+"Question: What is the sum of 1771 and 5581?
+
+Answer: ",7352
+"Question: What is the sum of 3859 and 2090?
+
+Answer: ",5949
+"Question: What is the sum of 3377 and 8166?
+
+Answer: ",11543
+"Question: What is the sum of 4307 and 9189?
+
+Answer: ",13496
+"Question: What is the sum of 2730 and 2398?
+
+Answer: ",5128
+"Question: What is the sum of 6224 and 8569?
+
+Answer: ",14793
+"Question: What is the sum of 4707 and 7795?
+
+Answer: ",12502
+"Question: What is the sum of 2933 and 7516?
+
+Answer: ",10449
+"Question: What is the sum of 2852 and 3668?
+
+Answer: ",6520
+"Question: What is the sum of 1433 and 8595?
+
+Answer: ",10028
+"Question: What is the sum of 7050 and 3480?
+
+Answer: ",10530
+"Question: What is the sum of 5310 and 8183?
+
+Answer: ",13493
+"Question: What is the sum of 3927 and 2837?
+
+Answer: ",6764
+"Question: What is the sum of 7111 and 8790?
+
+Answer: ",15901
+"Question: What is the sum of 5812 and 6725?
+
+Answer: ",12537
+"Question: What is the sum of 3333 and 2255?
+
+Answer: ",5588
+"Question: What is the sum of 2224 and 2677?
+
+Answer: ",4901
+"Question: What is the sum of 5506 and 9165?
+
+Answer: ",14671
+"Question: What is the sum of 5191 and 9173?
+
+Answer: ",14364
+"Question: What is the sum of 1528 and 6753?
+
+Answer: ",8281
+"Question: What is the sum of 3042 and 6601?
+
+Answer: ",9643
+"Question: What is the sum of 5860 and 2291?
+
+Answer: ",8151
+"Question: What is the sum of 6217 and 1518?
+
+Answer: ",7735
+"Question: What is the sum of 4512 and 5683?
+
+Answer: ",10195
+"Question: What is the sum of 4042 and 3852?
+
+Answer: ",7894
+"Question: What is the sum of 9017 and 7329?
+
+Answer: ",16346
+"Question: What is the sum of 8701 and 6042?
+
+Answer: ",14743
+"Question: What is the sum of 3858 and 7408?
+
+Answer: ",11266
+"Question: What is the sum of 7310 and 7778?
+
+Answer: ",15088
+"Question: What is the sum of 9767 and 3117?
+
+Answer: ",12884
+"Question: What is the sum of 4344 and 6919?
+
+Answer: ",11263
+"Question: What is the sum of 4882 and 6319?
+
+Answer: ",11201
+"Question: What is the sum of 2864 and 5439?
+
+Answer: ",8303
+"Question: What is the sum of 1615 and 1711?
+
+Answer: ",3326
+"Question: What is the sum of 5732 and 3627?
+
+Answer: ",9359
+"Question: What is the sum of 7573 and 8651?
+
+Answer: ",16224
+"Question: What is the sum of 2655 and 4750?
+
+Answer: ",7405
+"Question: What is the sum of 4808 and 6513?
+
+Answer: ",11321
+"Question: What is the sum of 2198 and 9361?
+
+Answer: ",11559
+"Question: What is the sum of 9516 and 8284?
+
+Answer: ",17800
+"Question: What is the sum of 9535 and 6700?
+
+Answer: ",16235
+"Question: What is the sum of 5735 and 9921?
+
+Answer: ",15656
+"Question: What is the sum of 8936 and 2086?
+
+Answer: ",11022
+"Question: What is the sum of 3937 and 6181?
+
+Answer: ",10118
+"Question: What is the sum of 1664 and 2888?
+
+Answer: ",4552
+"Question: What is the sum of 8451 and 9219?
+
+Answer: ",17670
+"Question: What is the sum of 3934 and 2467?
+
+Answer: ",6401
+"Question: What is the sum of 5584 and 1691?
+
+Answer: ",7275
+"Question: What is the sum of 6800 and 1728?
+
+Answer: ",8528
+"Question: What is the sum of 1241 and 8428?
+
+Answer: ",9669
+"Question: What is the sum of 8229 and 8581?
+
+Answer: ",16810
+"Question: What is the sum of 3670 and 7847?
+
+Answer: ",11517
+"Question: What is the sum of 4615 and 5490?
+
+Answer: ",10105
+"Question: What is the sum of 4682 and 5593?
+
+Answer: ",10275
+"Question: What is the sum of 5843 and 6059?
+
+Answer: ",11902
+"Question: What is the sum of 5446 and 3716?
+
+Answer: ",9162
+"Question: What is the sum of 8965 and 2802?
+
+Answer: ",11767
+"Question: What is the sum of 5112 and 3979?
+
+Answer: ",9091
+"Question: What is the sum of 2056 and 5467?
+
+Answer: ",7523
+"Question: What is the sum of 3934 and 8829?
+
+Answer: ",12763
+"Question: What is the sum of 1093 and 7779?
+
+Answer: ",8872
+"Question: What is the sum of 5998 and 2177?
+
+Answer: ",8175
+"Question: What is the sum of 6540 and 8378?
+
+Answer: ",14918
+"Question: What is the sum of 6875 and 8085?
+
+Answer: ",14960
+"Question: What is the sum of 4238 and 8355?
+
+Answer: ",12593
+"Question: What is the sum of 7989 and 6466?
+
+Answer: ",14455
+"Question: What is the sum of 8345 and 1000?
+
+Answer: ",9345
+"Question: What is the sum of 2106 and 7806?
+
+Answer: ",9912
+"Question: What is the sum of 3876 and 1926?
+
+Answer: ",5802
+"Question: What is the sum of 6535 and 1561?
+
+Answer: ",8096
+"Question: What is the sum of 9313 and 2472?
+
+Answer: ",11785
+"Question: What is the sum of 9111 and 1953?
+
+Answer: ",11064
+"Question: What is the sum of 7769 and 9091?
+
+Answer: ",16860
+"Question: What is the sum of 8571 and 2296?
+
+Answer: ",10867
+"Question: What is the sum of 8257 and 1041?
+
+Answer: ",9298
+"Question: What is the sum of 8971 and 4848?
+
+Answer: ",13819
+"Question: What is the sum of 4608 and 3631?
+
+Answer: ",8239
+"Question: What is the sum of 3458 and 6049?
+
+Answer: ",9507
+"Question: What is the sum of 7123 and 5153?
+
+Answer: ",12276
+"Question: What is the sum of 6587 and 9777?
+
+Answer: ",16364
+"Question: What is the sum of 3026 and 8792?
+
+Answer: ",11818
+"Question: What is the sum of 4982 and 8791?
+
+Answer: ",13773
+"Question: What is the sum of 9446 and 1451?
+
+Answer: ",10897
+"Question: What is the sum of 5410 and 1149?
+
+Answer: ",6559
+"Question: What is the sum of 9320 and 3589?
+
+Answer: ",12909
+"Question: What is the sum of 4929 and 6166?
+
+Answer: ",11095
+"Question: What is the sum of 3052 and 1319?
+
+Answer: ",4371
+"Question: What is the sum of 6248 and 3549?
+
+Answer: ",9797
+"Question: What is the sum of 5103 and 2128?
+
+Answer: ",7231
+"Question: What is the sum of 6586 and 2474?
+
+Answer: ",9060
+"Question: What is the sum of 7225 and 3553?
+
+Answer: ",10778
+"Question: What is the sum of 4257 and 5285?
+
+Answer: ",9542
+"Question: What is the sum of 1369 and 6578?
+
+Answer: ",7947
+"Question: What is the sum of 4146 and 8226?
+
+Answer: ",12372
+"Question: What is the sum of 1600 and 1038?
+
+Answer: ",2638
+"Question: What is the sum of 7083 and 7707?
+
+Answer: ",14790
+"Question: What is the sum of 1869 and 9719?
+
+Answer: ",11588
+"Question: What is the sum of 5257 and 2192?
+
+Answer: ",7449
+"Question: What is the sum of 3815 and 4383?
+
+Answer: ",8198
+"Question: What is the sum of 5873 and 8109?
+
+Answer: ",13982
+"Question: What is the sum of 1263 and 8207?
+
+Answer: ",9470
+"Question: What is the sum of 6565 and 8630?
+
+Answer: ",15195
+"Question: What is the sum of 5775 and 7517?
+
+Answer: ",13292
+"Question: What is the sum of 9838 and 5975?
+
+Answer: ",15813
+"Question: What is the sum of 2848 and 4425?
+
+Answer: ",7273
+"Question: What is the sum of 1980 and 7907?
+
+Answer: ",9887
+"Question: What is the sum of 9740 and 6302?
+
+Answer: ",16042
+"Question: What is the sum of 6653 and 1279?
+
+Answer: ",7932
+"Question: What is the sum of 4924 and 6768?
+
+Answer: ",11692
+"Question: What is the sum of 3302 and 7061?
+
+Answer: ",10363
+"Question: What is the sum of 1934 and 8100?
+
+Answer: ",10034
+"Question: What is the sum of 6075 and 5046?
+
+Answer: ",11121
+"Question: What is the sum of 3464 and 1387?
+
+Answer: ",4851
+"Question: What is the sum of 8662 and 9783?
+
+Answer: ",18445
+"Question: What is the sum of 3753 and 7082?
+
+Answer: ",10835
+"Question: What is the sum of 1932 and 4226?
+
+Answer: ",6158
+"Question: What is the sum of 7966 and 8748?
+
+Answer: ",16714
+"Question: What is the sum of 9570 and 4543?
+
+Answer: ",14113
+"Question: What is the sum of 3557 and 8348?
+
+Answer: ",11905
+"Question: What is the sum of 8898 and 7985?
+
+Answer: ",16883
+"Question: What is the sum of 6727 and 4152?
+
+Answer: ",10879
+"Question: What is the sum of 9835 and 1091?
+
+Answer: ",10926
+"Question: What is the sum of 9503 and 3462?
+
+Answer: ",12965
+"Question: What is the sum of 2354 and 2872?
+
+Answer: ",5226
+"Question: What is the sum of 7368 and 6226?
+
+Answer: ",13594
+"Question: What is the sum of 9463 and 7052?
+
+Answer: ",16515
+"Question: What is the sum of 3992 and 7393?
+
+Answer: ",11385
+"Question: What is the sum of 7765 and 4993?
+
+Answer: ",12758
+"Question: What is the sum of 5926 and 7138?
+
+Answer: ",13064
+"Question: What is the sum of 9385 and 5351?
+
+Answer: ",14736
+"Question: What is the sum of 9154 and 3770?
+
+Answer: ",12924
+"Question: What is the sum of 1909 and 9989?
+
+Answer: ",11898
+"Question: What is the sum of 1848 and 3269?
+
+Answer: ",5117
+"Question: What is the sum of 2694 and 2262?
+
+Answer: ",4956
+"Question: What is the sum of 9873 and 4069?
+
+Answer: ",13942
+"Question: What is the sum of 9007 and 3026?
+
+Answer: ",12033
+"Question: What is the sum of 2416 and 2404?
+
+Answer: ",4820
+"Question: What is the sum of 9434 and 1846?
+
+Answer: ",11280
+"Question: What is the sum of 4696 and 7514?
+
+Answer: ",12210
+"Question: What is the sum of 8790 and 7524?
+
+Answer: ",16314
+"Question: What is the sum of 7660 and 8456?
+
+Answer: ",16116
+"Question: What is the sum of 9456 and 9233?
+
+Answer: ",18689
+"Question: What is the sum of 3168 and 7274?
+
+Answer: ",10442
+"Question: What is the sum of 4063 and 1004?
+
+Answer: ",5067
+"Question: What is the sum of 6378 and 6194?
+
+Answer: ",12572
+"Question: What is the sum of 5943 and 2533?
+
+Answer: ",8476
+"Question: What is the sum of 7825 and 2092?
+
+Answer: ",9917
+"Question: What is the sum of 1417 and 7133?
+
+Answer: ",8550
+"Question: What is the sum of 3246 and 6534?
+
+Answer: ",9780
+"Question: What is the sum of 3247 and 5101?
+
+Answer: ",8348
+"Question: What is the sum of 5388 and 3789?
+
+Answer: ",9177
+"Question: What is the sum of 5175 and 7988?
+
+Answer: ",13163
+"Question: What is the sum of 6206 and 3410?
+
+Answer: ",9616
+"Question: What is the sum of 3598 and 2632?
+
+Answer: ",6230
+"Question: What is the sum of 7632 and 5715?
+
+Answer: ",13347
+"Question: What is the sum of 1258 and 4625?
+
+Answer: ",5883
+"Question: What is the sum of 9444 and 2971?
+
+Answer: ",12415
+"Question: What is the sum of 2370 and 9306?
+
+Answer: ",11676
+"Question: What is the sum of 1665 and 6373?
+
+Answer: ",8038
+"Question: What is the sum of 1035 and 9658?
+
+Answer: ",10693
+"Question: What is the sum of 7316 and 9723?
+
+Answer: ",17039
+"Question: What is the sum of 9473 and 4400?
+
+Answer: ",13873
+"Question: What is the sum of 1008 and 1015?
+
+Answer: ",2023
+"Question: What is the sum of 9324 and 1358?
+
+Answer: ",10682
+"Question: What is the sum of 5295 and 5035?
+
+Answer: ",10330
+"Question: What is the sum of 9444 and 9531?
+
+Answer: ",18975
+"Question: What is the sum of 6960 and 1450?
+
+Answer: ",8410
+"Question: What is the sum of 7932 and 9762?
+
+Answer: ",17694
+"Question: What is the sum of 5780 and 3290?
+
+Answer: ",9070
+"Question: What is the sum of 5483 and 1519?
+
+Answer: ",7002
+"Question: What is the sum of 5324 and 7797?
+
+Answer: ",13121
+"Question: What is the sum of 3153 and 9676?
+
+Answer: ",12829
+"Question: What is the sum of 1169 and 2206?
+
+Answer: ",3375
+"Question: What is the sum of 9985 and 9526?
+
+Answer: ",19511
+"Question: What is the sum of 7730 and 1395?
+
+Answer: ",9125
+"Question: What is the sum of 3620 and 4009?
+
+Answer: ",7629
+"Question: What is the sum of 6047 and 4820?
+
+Answer: ",10867
+"Question: What is the sum of 4065 and 2800?
+
+Answer: ",6865
+"Question: What is the sum of 6927 and 2121?
+
+Answer: ",9048
+"Question: What is the sum of 9942 and 3097?
+
+Answer: ",13039
+"Question: What is the sum of 3760 and 3125?
+
+Answer: ",6885
+"Question: What is the sum of 4536 and 1492?
+
+Answer: ",6028
+"Question: What is the sum of 8507 and 9374?
+
+Answer: ",17881
+"Question: What is the sum of 6973 and 4452?
+
+Answer: ",11425
+"Question: What is the sum of 4212 and 4031?
+
+Answer: ",8243
+"Question: What is the sum of 2269 and 3703?
+
+Answer: ",5972
+"Question: What is the sum of 5245 and 3543?
+
+Answer: ",8788
+"Question: What is the sum of 3868 and 3330?
+
+Answer: ",7198
+"Question: What is the sum of 3076 and 5243?
+
+Answer: ",8319
+"Question: What is the sum of 3112 and 1365?
+
+Answer: ",4477
+"Question: What is the sum of 8559 and 7036?
+
+Answer: ",15595
+"Question: What is the sum of 1984 and 5267?
+
+Answer: ",7251
+"Question: What is the sum of 3931 and 3311?
+
+Answer: ",7242
+"Question: What is the sum of 4534 and 1214?
+
+Answer: ",5748
+"Question: What is the sum of 9605 and 8939?
+
+Answer: ",18544
+"Question: What is the sum of 3815 and 8430?
+
+Answer: ",12245
+"Question: What is the sum of 6324 and 1611?
+
+Answer: ",7935
+"Question: What is the sum of 3026 and 8832?
+
+Answer: ",11858
+"Question: What is the sum of 4182 and 5660?
+
+Answer: ",9842
+"Question: What is the sum of 9553 and 3799?
+
+Answer: ",13352
+"Question: What is the sum of 5635 and 2199?
+
+Answer: ",7834
+"Question: What is the sum of 1681 and 9236?
+
+Answer: ",10917
+"Question: What is the sum of 6589 and 3125?
+
+Answer: ",9714
+"Question: What is the sum of 4685 and 9698?
+
+Answer: ",14383
+"Question: What is the sum of 4344 and 8840?
+
+Answer: ",13184
+"Question: What is the sum of 3107 and 3061?
+
+Answer: ",6168
+"Question: What is the sum of 9490 and 5211?
+
+Answer: ",14701
+"Question: What is the sum of 2553 and 5511?
+
+Answer: ",8064
+"Question: What is the sum of 7239 and 5435?
+
+Answer: ",12674
+"Question: What is the sum of 4228 and 5479?
+
+Answer: ",9707
+"Question: What is the sum of 3886 and 9802?
+
+Answer: ",13688
+"Question: What is the sum of 6733 and 2455?
+
+Answer: ",9188
+"Question: What is the sum of 1257 and 2767?
+
+Answer: ",4024
+"Question: What is the sum of 6970 and 2765?
+
+Answer: ",9735
+"Question: What is the sum of 1866 and 2483?
+
+Answer: ",4349
+"Question: What is the sum of 6666 and 8912?
+
+Answer: ",15578
+"Question: What is the sum of 7093 and 8214?
+
+Answer: ",15307
+"Question: What is the sum of 6281 and 1380?
+
+Answer: ",7661
+"Question: What is the sum of 8818 and 8884?
+
+Answer: ",17702
+"Question: What is the sum of 4790 and 6924?
+
+Answer: ",11714
+"Question: What is the sum of 3603 and 7701?
+
+Answer: ",11304
+"Question: What is the sum of 6823 and 3693?
+
+Answer: ",10516
+"Question: What is the sum of 1861 and 1986?
+
+Answer: ",3847
+"Question: What is the sum of 5210 and 7668?
+
+Answer: ",12878
+"Question: What is the sum of 8323 and 1824?
+
+Answer: ",10147
+"Question: What is the sum of 4826 and 2222?
+
+Answer: ",7048
+"Question: What is the sum of 5003 and 7457?
+
+Answer: ",12460
+"Question: What is the sum of 1971 and 1053?
+
+Answer: ",3024
+"Question: What is the sum of 3051 and 8990?
+
+Answer: ",12041
+"Question: What is the sum of 1326 and 8444?
+
+Answer: ",9770
+"Question: What is the sum of 9025 and 9550?
+
+Answer: ",18575
+"Question: What is the sum of 1259 and 4362?
+
+Answer: ",5621
+"Question: What is the sum of 2719 and 6047?
+
+Answer: ",8766
+"Question: What is the sum of 5632 and 9249?
+
+Answer: ",14881
+"Question: What is the sum of 7350 and 1880?
+
+Answer: ",9230
+"Question: What is the sum of 8332 and 6258?
+
+Answer: ",14590
+"Question: What is the sum of 5332 and 4535?
+
+Answer: ",9867
+"Question: What is the sum of 5520 and 1284?
+
+Answer: ",6804
+"Question: What is the sum of 2464 and 2913?
+
+Answer: ",5377
+"Question: What is the sum of 6991 and 7166?
+
+Answer: ",14157
+"Question: What is the sum of 4469 and 3618?
+
+Answer: ",8087
+"Question: What is the sum of 8799 and 8076?
+
+Answer: ",16875
+"Question: What is the sum of 7979 and 9623?
+
+Answer: ",17602
+"Question: What is the sum of 7249 and 6197?
+
+Answer: ",13446
+"Question: What is the sum of 5229 and 8114?
+
+Answer: ",13343
+"Question: What is the sum of 2395 and 7110?
+
+Answer: ",9505
+"Question: What is the sum of 2115 and 1866?
+
+Answer: ",3981
+"Question: What is the sum of 9945 and 3052?
+
+Answer: ",12997
+"Question: What is the sum of 1346 and 3458?
+
+Answer: ",4804
+"Question: What is the sum of 9069 and 7351?
+
+Answer: ",16420
+"Question: What is the sum of 4370 and 1560?
+
+Answer: ",5930
+"Question: What is the sum of 9782 and 1724?
+
+Answer: ",11506
+"Question: What is the sum of 1239 and 2021?
+
+Answer: ",3260
+"Question: What is the sum of 6528 and 7697?
+
+Answer: ",14225
+"Question: What is the sum of 3057 and 6740?
+
+Answer: ",9797
+"Question: What is the sum of 3226 and 2080?
+
+Answer: ",5306
+"Question: What is the sum of 7620 and 6168?
+
+Answer: ",13788
+"Question: What is the sum of 1415 and 9655?
+
+Answer: ",11070
+"Question: What is the sum of 3527 and 9337?
+
+Answer: ",12864
+"Question: What is the sum of 3916 and 8084?
+
+Answer: ",12000
+"Question: What is the sum of 4532 and 3122?
+
+Answer: ",7654
+"Question: What is the sum of 8593 and 1484?
+
+Answer: ",10077
+"Question: What is the sum of 4265 and 6001?
+
+Answer: ",10266
+"Question: What is the sum of 2669 and 1064?
+
+Answer: ",3733
+"Question: What is the sum of 6056 and 8619?
+
+Answer: ",14675
+"Question: What is the sum of 8852 and 2066?
+
+Answer: ",10918
+"Question: What is the sum of 7997 and 7011?
+
+Answer: ",15008
+"Question: What is the sum of 4975 and 7212?
+
+Answer: ",12187
+"Question: What is the sum of 3144 and 9038?
+
+Answer: ",12182
+"Question: What is the sum of 6024 and 3321?
+
+Answer: ",9345
+"Question: What is the sum of 8660 and 8497?
+
+Answer: ",17157
+"Question: What is the sum of 8228 and 3410?
+
+Answer: ",11638
+"Question: What is the sum of 1237 and 7353?
+
+Answer: ",8590
+"Question: What is the sum of 2278 and 8781?
+
+Answer: ",11059
+"Question: What is the sum of 2069 and 1024?
+
+Answer: ",3093
+"Question: What is the sum of 7525 and 2121?
+
+Answer: ",9646
+"Question: What is the sum of 9294 and 6279?
+
+Answer: ",15573
+"Question: What is the sum of 8826 and 4285?
+
+Answer: ",13111
+"Question: What is the sum of 8295 and 6251?
+
+Answer: ",14546
+"Question: What is the sum of 5324 and 1831?
+
+Answer: ",7155
+"Question: What is the sum of 3643 and 4463?
+
+Answer: ",8106
+"Question: What is the sum of 1014 and 5709?
+
+Answer: ",6723
+"Question: What is the sum of 3143 and 6281?
+
+Answer: ",9424
+"Question: What is the sum of 3173 and 9499?
+
+Answer: ",12672
+"Question: What is the sum of 1862 and 1946?
+
+Answer: ",3808
+"Question: What is the sum of 8445 and 1663?
+
+Answer: ",10108
+"Question: What is the sum of 6854 and 7906?
+
+Answer: ",14760
+"Question: What is the sum of 1369 and 6148?
+
+Answer: ",7517
+"Question: What is the sum of 8552 and 8338?
+
+Answer: ",16890
+"Question: What is the sum of 2921 and 8161?
+
+Answer: ",11082
+"Question: What is the sum of 3326 and 1904?
+
+Answer: ",5230
+"Question: What is the sum of 9114 and 6179?
+
+Answer: ",15293
+"Question: What is the sum of 8585 and 9807?
+
+Answer: ",18392
+"Question: What is the sum of 3451 and 1800?
+
+Answer: ",5251
+"Question: What is the sum of 8906 and 6227?
+
+Answer: ",15133
+"Question: What is the sum of 5569 and 4459?
+
+Answer: ",10028
+"Question: What is the sum of 8148 and 1360?
+
+Answer: ",9508
+"Question: What is the sum of 9448 and 6851?
+
+Answer: ",16299
+"Question: What is the sum of 7696 and 5991?
+
+Answer: ",13687
+"Question: What is the sum of 7779 and 9325?
+
+Answer: ",17104
+"Question: What is the sum of 5085 and 6066?
+
+Answer: ",11151
+"Question: What is the sum of 9795 and 6738?
+
+Answer: ",16533
+"Question: What is the sum of 4411 and 1325?
+
+Answer: ",5736
+"Question: What is the sum of 9051 and 6003?
+
+Answer: ",15054
+"Question: What is the sum of 7111 and 4590?
+
+Answer: ",11701
+"Question: What is the sum of 6766 and 8017?
+
+Answer: ",14783
+"Question: What is the sum of 5868 and 9267?
+
+Answer: ",15135
+"Question: What is the sum of 8741 and 9204?
+
+Answer: ",17945
+"Question: What is the sum of 5928 and 8252?
+
+Answer: ",14180
+"Question: What is the sum of 8272 and 1421?
+
+Answer: ",9693
+"Question: What is the sum of 7817 and 6609?
+
+Answer: ",14426
+"Question: What is the sum of 8953 and 2235?
+
+Answer: ",11188
+"Question: What is the sum of 5018 and 4549?
+
+Answer: ",9567
+"Question: What is the sum of 6590 and 1805?
+
+Answer: ",8395
+"Question: What is the sum of 6925 and 3307?
+
+Answer: ",10232
+"Question: What is the sum of 1398 and 6714?
+
+Answer: ",8112
+"Question: What is the sum of 2298 and 5338?
+
+Answer: ",7636
+"Question: What is the sum of 9451 and 6176?
+
+Answer: ",15627
+"Question: What is the sum of 1312 and 1311?
+
+Answer: ",2623
+"Question: What is the sum of 3658 and 9314?
+
+Answer: ",12972
+"Question: What is the sum of 5896 and 9523?
+
+Answer: ",15419
+"Question: What is the sum of 3127 and 5945?
+
+Answer: ",9072
+"Question: What is the sum of 8479 and 9403?
+
+Answer: ",17882
+"Question: What is the sum of 1015 and 1565?
+
+Answer: ",2580
+"Question: What is the sum of 7272 and 1666?
+
+Answer: ",8938
+"Question: What is the sum of 3387 and 3968?
+
+Answer: ",7355
+"Question: What is the sum of 7613 and 5319?
+
+Answer: ",12932
+"Question: What is the sum of 3728 and 1905?
+
+Answer: ",5633
+"Question: What is the sum of 1926 and 7494?
+
+Answer: ",9420
+"Question: What is the sum of 4061 and 9306?
+
+Answer: ",13367
+"Question: What is the sum of 8116 and 3142?
+
+Answer: ",11258
+"Question: What is the sum of 2166 and 5085?
+
+Answer: ",7251
+"Question: What is the sum of 5274 and 7115?
+
+Answer: ",12389
+"Question: What is the sum of 6702 and 1497?
+
+Answer: ",8199
+"Question: What is the sum of 2114 and 7496?
+
+Answer: ",9610
+"Question: What is the sum of 2631 and 3067?
+
+Answer: ",5698
+"Question: What is the sum of 5598 and 8766?
+
+Answer: ",14364
+"Question: What is the sum of 5087 and 9980?
+
+Answer: ",15067
+"Question: What is the sum of 7736 and 4149?
+
+Answer: ",11885
+"Question: What is the sum of 2907 and 2724?
+
+Answer: ",5631
+"Question: What is the sum of 8085 and 7725?
+
+Answer: ",15810
+"Question: What is the sum of 6967 and 7255?
+
+Answer: ",14222
+"Question: What is the sum of 1247 and 1906?
+
+Answer: ",3153
+"Question: What is the sum of 6722 and 5640?
+
+Answer: ",12362
+"Question: What is the sum of 6834 and 1494?
+
+Answer: ",8328
+"Question: What is the sum of 5525 and 7652?
+
+Answer: ",13177
+"Question: What is the sum of 8186 and 1828?
+
+Answer: ",10014
+"Question: What is the sum of 1633 and 7370?
+
+Answer: ",9003
+"Question: What is the sum of 1586 and 6994?
+
+Answer: ",8580
+"Question: What is the sum of 6880 and 4294?
+
+Answer: ",11174
+"Question: What is the sum of 8651 and 1333?
+
+Answer: ",9984
+"Question: What is the sum of 4190 and 5876?
+
+Answer: ",10066
+"Question: What is the sum of 1146 and 9719?
+
+Answer: ",10865
+"Question: What is the sum of 4001 and 7731?
+
+Answer: ",11732
+"Question: What is the sum of 3172 and 8246?
+
+Answer: ",11418
+"Question: What is the sum of 9009 and 5015?
+
+Answer: ",14024
+"Question: What is the sum of 2864 and 6439?
+
+Answer: ",9303
+"Question: What is the sum of 6768 and 3217?
+
+Answer: ",9985
+"Question: What is the sum of 6376 and 9611?
+
+Answer: ",15987
+"Question: What is the sum of 5586 and 7307?
+
+Answer: ",12893
+"Question: What is the sum of 4374 and 8983?
+
+Answer: ",13357
+"Question: What is the sum of 3734 and 9130?
+
+Answer: ",12864
+"Question: What is the sum of 7663 and 3081?
+
+Answer: ",10744
+"Question: What is the sum of 5303 and 3046?
+
+Answer: ",8349
+"Question: What is the sum of 4712 and 3112?
+
+Answer: ",7824
+"Question: What is the sum of 5869 and 5334?
+
+Answer: ",11203
+"Question: What is the sum of 9703 and 8551?
+
+Answer: ",18254
+"Question: What is the sum of 5931 and 5846?
+
+Answer: ",11777
+"Question: What is the sum of 5670 and 6545?
+
+Answer: ",12215
+"Question: What is the sum of 3749 and 7949?
+
+Answer: ",11698
+"Question: What is the sum of 7559 and 1957?
+
+Answer: ",9516
+"Question: What is the sum of 5663 and 1406?
+
+Answer: ",7069
+"Question: What is the sum of 7757 and 7678?
+
+Answer: ",15435
+"Question: What is the sum of 5108 and 3755?
+
+Answer: ",8863
+"Question: What is the sum of 5956 and 4389?
+
+Answer: ",10345
+"Question: What is the sum of 7945 and 9569?
+
+Answer: ",17514
+"Question: What is the sum of 6248 and 8953?
+
+Answer: ",15201
+"Question: What is the sum of 8837 and 1283?
+
+Answer: ",10120
+"Question: What is the sum of 6744 and 8671?
+
+Answer: ",15415
+"Question: What is the sum of 3512 and 3700?
+
+Answer: ",7212
+"Question: What is the sum of 5130 and 9235?
+
+Answer: ",14365
+"Question: What is the sum of 8946 and 6906?
+
+Answer: ",15852
+"Question: What is the sum of 1166 and 7001?
+
+Answer: ",8167
+"Question: What is the sum of 9235 and 2036?
+
+Answer: ",11271
+"Question: What is the sum of 1892 and 3417?
+
+Answer: ",5309
+"Question: What is the sum of 5081 and 7600?
+
+Answer: ",12681
+"Question: What is the sum of 4571 and 7302?
+
+Answer: ",11873
+"Question: What is the sum of 9955 and 9455?
+
+Answer: ",19410
+"Question: What is the sum of 8219 and 8360?
+
+Answer: ",16579
+"Question: What is the sum of 6189 and 9160?
+
+Answer: ",15349
+"Question: What is the sum of 5315 and 1726?
+
+Answer: ",7041
+"Question: What is the sum of 3630 and 1009?
+
+Answer: ",4639
+"Question: What is the sum of 5535 and 8311?
+
+Answer: ",13846
+"Question: What is the sum of 2519 and 7836?
+
+Answer: ",10355
+"Question: What is the sum of 9219 and 5931?
+
+Answer: ",15150
+"Question: What is the sum of 1793 and 4287?
+
+Answer: ",6080
+"Question: What is the sum of 7305 and 5477?
+
+Answer: ",12782
+"Question: What is the sum of 9589 and 9266?
+
+Answer: ",18855
+"Question: What is the sum of 9177 and 9042?
+
+Answer: ",18219
+"Question: What is the sum of 6939 and 3658?
+
+Answer: ",10597
+"Question: What is the sum of 3900 and 2372?
+
+Answer: ",6272
+"Question: What is the sum of 5966 and 6434?
+
+Answer: ",12400
+"Question: What is the sum of 7372 and 8597?
+
+Answer: ",15969
+"Question: What is the sum of 7689 and 3057?
+
+Answer: ",10746
+"Question: What is the sum of 6589 and 6198?
+
+Answer: ",12787
+"Question: What is the sum of 9684 and 1599?
+
+Answer: ",11283
+"Question: What is the sum of 2159 and 1949?
+
+Answer: ",4108
+"Question: What is the sum of 9161 and 2259?
+
+Answer: ",11420
+"Question: What is the sum of 4080 and 1676?
+
+Answer: ",5756
+"Question: What is the sum of 5821 and 9075?
+
+Answer: ",14896
+"Question: What is the sum of 1262 and 7354?
+
+Answer: ",8616
+"Question: What is the sum of 4344 and 5988?
+
+Answer: ",10332
+"Question: What is the sum of 4594 and 9991?
+
+Answer: ",14585
+"Question: What is the sum of 7458 and 5675?
+
+Answer: ",13133
+"Question: What is the sum of 5491 and 4072?
+
+Answer: ",9563
+"Question: What is the sum of 4052 and 2830?
+
+Answer: ",6882
+"Question: What is the sum of 8227 and 4652?
+
+Answer: ",12879
+"Question: What is the sum of 2548 and 6293?
+
+Answer: ",8841
+"Question: What is the sum of 9437 and 8438?
+
+Answer: ",17875
+"Question: What is the sum of 3289 and 7586?
+
+Answer: ",10875
+"Question: What is the sum of 1446 and 1059?
+
+Answer: ",2505
+"Question: What is the sum of 3007 and 3195?
+
+Answer: ",6202
+"Question: What is the sum of 2425 and 4663?
+
+Answer: ",7088
+"Question: What is the sum of 4748 and 8276?
+
+Answer: ",13024
+"Question: What is the sum of 4703 and 7068?
+
+Answer: ",11771
+"Question: What is the sum of 9202 and 8024?
+
+Answer: ",17226
+"Question: What is the sum of 1817 and 9112?
+
+Answer: ",10929
+"Question: What is the sum of 5176 and 1083?
+
+Answer: ",6259
+"Question: What is the sum of 9353 and 3469?
+
+Answer: ",12822
+"Question: What is the sum of 7151 and 3072?
+
+Answer: ",10223
+"Question: What is the sum of 1777 and 5417?
+
+Answer: ",7194
+"Question: What is the sum of 4661 and 6527?
+
+Answer: ",11188
+"Question: What is the sum of 9605 and 4522?
+
+Answer: ",14127
+"Question: What is the sum of 7066 and 9918?
+
+Answer: ",16984
+"Question: What is the sum of 3000 and 5083?
+
+Answer: ",8083
+"Question: What is the sum of 3538 and 9703?
+
+Answer: ",13241
+"Question: What is the sum of 6106 and 4815?
+
+Answer: ",10921
+"Question: What is the sum of 5100 and 9175?
+
+Answer: ",14275
+"Question: What is the sum of 3963 and 3546?
+
+Answer: ",7509
+"Question: What is the sum of 9158 and 9984?
+
+Answer: ",19142
+"Question: What is the sum of 8229 and 1676?
+
+Answer: ",9905
+"Question: What is the sum of 9446 and 7729?
+
+Answer: ",17175
+"Question: What is the sum of 7112 and 3792?
+
+Answer: ",10904
+"Question: What is the sum of 1758 and 3545?
+
+Answer: ",5303
+"Question: What is the sum of 5243 and 6301?
+
+Answer: ",11544
+"Question: What is the sum of 5654 and 8129?
+
+Answer: ",13783
+"Question: What is the sum of 1157 and 1726?
+
+Answer: ",2883
+"Question: What is the sum of 8022 and 2589?
+
+Answer: ",10611
+"Question: What is the sum of 4391 and 4679?
+
+Answer: ",9070
+"Question: What is the sum of 2988 and 3592?
+
+Answer: ",6580
+"Question: What is the sum of 7024 and 9082?
+
+Answer: ",16106
+"Question: What is the sum of 8581 and 1638?
+
+Answer: ",10219
+"Question: What is the sum of 2973 and 4415?
+
+Answer: ",7388
+"Question: What is the sum of 4579 and 8479?
+
+Answer: ",13058
+"Question: What is the sum of 1136 and 8311?
+
+Answer: ",9447
+"Question: What is the sum of 4417 and 3935?
+
+Answer: ",8352
+"Question: What is the sum of 4620 and 2056?
+
+Answer: ",6676
+"Question: What is the sum of 9148 and 1140?
+
+Answer: ",10288
+"Question: What is the sum of 5773 and 7991?
+
+Answer: ",13764
+"Question: What is the sum of 6597 and 9273?
+
+Answer: ",15870
+"Question: What is the sum of 2499 and 6605?
+
+Answer: ",9104
+"Question: What is the sum of 3609 and 9054?
+
+Answer: ",12663
+"Question: What is the sum of 4277 and 9813?
+
+Answer: ",14090
+"Question: What is the sum of 8115 and 6414?
+
+Answer: ",14529
+"Question: What is the sum of 4167 and 4842?
+
+Answer: ",9009
+"Question: What is the sum of 3463 and 2290?
+
+Answer: ",5753
+"Question: What is the sum of 6570 and 7457?
+
+Answer: ",14027
+"Question: What is the sum of 7847 and 1415?
+
+Answer: ",9262
+"Question: What is the sum of 9303 and 2184?
+
+Answer: ",11487
+"Question: What is the sum of 6820 and 6073?
+
+Answer: ",12893
+"Question: What is the sum of 3770 and 5223?
+
+Answer: ",8993
+"Question: What is the sum of 9655 and 1618?
+
+Answer: ",11273
+"Question: What is the sum of 5082 and 8501?
+
+Answer: ",13583
+"Question: What is the sum of 4106 and 7019?
+
+Answer: ",11125
+"Question: What is the sum of 1804 and 9561?
+
+Answer: ",11365
+"Question: What is the sum of 1492 and 2637?
+
+Answer: ",4129
+"Question: What is the sum of 6288 and 3852?
+
+Answer: ",10140
+"Question: What is the sum of 3485 and 7878?
+
+Answer: ",11363
+"Question: What is the sum of 8890 and 8273?
+
+Answer: ",17163
+"Question: What is the sum of 8907 and 3808?
+
+Answer: ",12715
+"Question: What is the sum of 8389 and 6625?
+
+Answer: ",15014
+"Question: What is the sum of 1637 and 7262?
+
+Answer: ",8899
+"Question: What is the sum of 6504 and 5262?
+
+Answer: ",11766
+"Question: What is the sum of 9797 and 3754?
+
+Answer: ",13551
+"Question: What is the sum of 2657 and 6803?
+
+Answer: ",9460
+"Question: What is the sum of 7730 and 8362?
+
+Answer: ",16092
+"Question: What is the sum of 2695 and 5966?
+
+Answer: ",8661
+"Question: What is the sum of 1542 and 8978?
+
+Answer: ",10520
+"Question: What is the sum of 8580 and 1723?
+
+Answer: ",10303
+"Question: What is the sum of 1417 and 1178?
+
+Answer: ",2595
+"Question: What is the sum of 9486 and 5316?
+
+Answer: ",14802
+"Question: What is the sum of 2720 and 1359?
+
+Answer: ",4079
+"Question: What is the sum of 9619 and 2404?
+
+Answer: ",12023
+"Question: What is the sum of 6736 and 2593?
+
+Answer: ",9329
+"Question: What is the sum of 2605 and 8609?
+
+Answer: ",11214
+"Question: What is the sum of 3474 and 1208?
+
+Answer: ",4682
+"Question: What is the sum of 8288 and 8076?
+
+Answer: ",16364
+"Question: What is the sum of 4563 and 2405?
+
+Answer: ",6968
+"Question: What is the sum of 5466 and 9584?
+
+Answer: ",15050
+"Question: What is the sum of 1878 and 4998?
+
+Answer: ",6876
+"Question: What is the sum of 1546 and 2324?
+
+Answer: ",3870
+"Question: What is the sum of 6636 and 3671?
+
+Answer: ",10307
+"Question: What is the sum of 2597 and 7465?
+
+Answer: ",10062
+"Question: What is the sum of 3592 and 8497?
+
+Answer: ",12089
+"Question: What is the sum of 3472 and 4590?
+
+Answer: ",8062
+"Question: What is the sum of 5935 and 3665?
+
+Answer: ",9600
+"Question: What is the sum of 7590 and 2604?
+
+Answer: ",10194
+"Question: What is the sum of 9998 and 9952?
+
+Answer: ",19950
+"Question: What is the sum of 1225 and 3536?
+
+Answer: ",4761
+"Question: What is the sum of 6183 and 6452?
+
+Answer: ",12635
+"Question: What is the sum of 3150 and 1524?
+
+Answer: ",4674
+"Question: What is the sum of 9859 and 8641?
+
+Answer: ",18500
+"Question: What is the sum of 4718 and 6107?
+
+Answer: ",10825
+"Question: What is the sum of 2082 and 1215?
+
+Answer: ",3297
+"Question: What is the sum of 8271 and 3316?
+
+Answer: ",11587
+"Question: What is the sum of 8372 and 1825?
+
+Answer: ",10197
+"Question: What is the sum of 9912 and 1804?
+
+Answer: ",11716
+"Question: What is the sum of 7002 and 7249?
+
+Answer: ",14251
+"Question: What is the sum of 9986 and 5110?
+
+Answer: ",15096
+"Question: What is the sum of 3856 and 9234?
+
+Answer: ",13090
+"Question: What is the sum of 9855 and 9544?
+
+Answer: ",19399
+"Question: What is the sum of 5459 and 7041?
+
+Answer: ",12500
+"Question: What is the sum of 3910 and 5396?
+
+Answer: ",9306
+"Question: What is the sum of 7614 and 2736?
+
+Answer: ",10350
+"Question: What is the sum of 1618 and 5998?
+
+Answer: ",7616
+"Question: What is the sum of 1560 and 2468?
+
+Answer: ",4028
+"Question: What is the sum of 8282 and 6652?
+
+Answer: ",14934
+"Question: What is the sum of 8610 and 2428?
+
+Answer: ",11038
+"Question: What is the sum of 5819 and 8994?
+
+Answer: ",14813
+"Question: What is the sum of 2966 and 8704?
+
+Answer: ",11670
+"Question: What is the sum of 4319 and 1417?
+
+Answer: ",5736
+"Question: What is the sum of 3100 and 6565?
+
+Answer: ",9665
+"Question: What is the sum of 8865 and 9272?
+
+Answer: ",18137
+"Question: What is the sum of 4507 and 8177?
+
+Answer: ",12684
+"Question: What is the sum of 7653 and 5896?
+
+Answer: ",13549
+"Question: What is the sum of 5103 and 9769?
+
+Answer: ",14872
+"Question: What is the sum of 6165 and 5252?
+
+Answer: ",11417
+"Question: What is the sum of 5784 and 4851?
+
+Answer: ",10635
+"Question: What is the sum of 8053 and 8174?
+
+Answer: ",16227
+"Question: What is the sum of 3674 and 1597?
+
+Answer: ",5271
+"Question: What is the sum of 3342 and 1137?
+
+Answer: ",4479
+"Question: What is the sum of 1784 and 4232?
+
+Answer: ",6016
+"Question: What is the sum of 1889 and 3708?
+
+Answer: ",5597
+"Question: What is the sum of 5970 and 6229?
+
+Answer: ",12199
+"Question: What is the sum of 3495 and 1546?
+
+Answer: ",5041
+"Question: What is the sum of 2178 and 3923?
+
+Answer: ",6101
+"Question: What is the sum of 5989 and 9040?
+
+Answer: ",15029
+"Question: What is the sum of 7452 and 7595?
+
+Answer: ",15047
+"Question: What is the sum of 4926 and 6840?
+
+Answer: ",11766
+"Question: What is the sum of 3102 and 6874?
+
+Answer: ",9976
+"Question: What is the sum of 9458 and 2977?
+
+Answer: ",12435
+"Question: What is the sum of 9176 and 9631?
+
+Answer: ",18807
+"Question: What is the sum of 3920 and 5074?
+
+Answer: ",8994
+"Question: What is the sum of 4882 and 1001?
+
+Answer: ",5883
+"Question: What is the sum of 7488 and 2679?
+
+Answer: ",10167
+"Question: What is the sum of 3711 and 4127?
+
+Answer: ",7838
+"Question: What is the sum of 8592 and 4679?
+
+Answer: ",13271
+"Question: What is the sum of 8841 and 5403?
+
+Answer: ",14244
+"Question: What is the sum of 3212 and 9711?
+
+Answer: ",12923
+"Question: What is the sum of 1957 and 2017?
+
+Answer: ",3974
+"Question: What is the sum of 7259 and 1258?
+
+Answer: ",8517
+"Question: What is the sum of 8975 and 6304?
+
+Answer: ",15279
+"Question: What is the sum of 1677 and 3365?
+
+Answer: ",5042
+"Question: What is the sum of 4830 and 3987?
+
+Answer: ",8817
+"Question: What is the sum of 2963 and 5966?
+
+Answer: ",8929
+"Question: What is the sum of 7374 and 6709?
+
+Answer: ",14083
+"Question: What is the sum of 7094 and 4250?
+
+Answer: ",11344
+"Question: What is the sum of 6020 and 6293?
+
+Answer: ",12313
+"Question: What is the sum of 8000 and 1553?
+
+Answer: ",9553
+"Question: What is the sum of 9660 and 6156?
+
+Answer: ",15816
+"Question: What is the sum of 6260 and 9671?
+
+Answer: ",15931
+"Question: What is the sum of 3705 and 3126?
+
+Answer: ",6831
+"Question: What is the sum of 2207 and 5248?
+
+Answer: ",7455
+"Question: What is the sum of 7729 and 7323?
+
+Answer: ",15052
+"Question: What is the sum of 6488 and 5176?
+
+Answer: ",11664
+"Question: What is the sum of 4078 and 7866?
+
+Answer: ",11944
+"Question: What is the sum of 7137 and 1628?
+
+Answer: ",8765
+"Question: What is the sum of 6917 and 8047?
+
+Answer: ",14964
+"Question: What is the sum of 4729 and 6295?
+
+Answer: ",11024
+"Question: What is the sum of 9727 and 6784?
+
+Answer: ",16511
+"Question: What is the sum of 7204 and 4843?
+
+Answer: ",12047
+"Question: What is the sum of 8048 and 2229?
+
+Answer: ",10277
+"Question: What is the sum of 1505 and 6840?
+
+Answer: ",8345
+"Question: What is the sum of 9838 and 3761?
+
+Answer: ",13599
+"Question: What is the sum of 9358 and 6390?
+
+Answer: ",15748
+"Question: What is the sum of 8489 and 6623?
+
+Answer: ",15112
+"Question: What is the sum of 9494 and 1552?
+
+Answer: ",11046
+"Question: What is the sum of 8855 and 3393?
+
+Answer: ",12248
+"Question: What is the sum of 9602 and 5781?
+
+Answer: ",15383
+"Question: What is the sum of 2254 and 3538?
+
+Answer: ",5792
+"Question: What is the sum of 7063 and 1522?
+
+Answer: ",8585
+"Question: What is the sum of 9461 and 8117?
+
+Answer: ",17578
+"Question: What is the sum of 5422 and 2585?
+
+Answer: ",8007
+"Question: What is the sum of 3949 and 8486?
+
+Answer: ",12435
+"Question: What is the sum of 2461 and 4280?
+
+Answer: ",6741
+"Question: What is the sum of 6454 and 2122?
+
+Answer: ",8576
+"Question: What is the sum of 1900 and 9235?
+
+Answer: ",11135
+"Question: What is the sum of 7734 and 7256?
+
+Answer: ",14990
+"Question: What is the sum of 5254 and 1762?
+
+Answer: ",7016
+"Question: What is the sum of 3008 and 5602?
+
+Answer: ",8610
+"Question: What is the sum of 7082 and 3340?
+
+Answer: ",10422
+"Question: What is the sum of 4544 and 5948?
+
+Answer: ",10492
+"Question: What is the sum of 5324 and 4784?
+
+Answer: ",10108
+"Question: What is the sum of 2408 and 5183?
+
+Answer: ",7591
+"Question: What is the sum of 1800 and 9852?
+
+Answer: ",11652
+"Question: What is the sum of 8120 and 2390?
+
+Answer: ",10510
+"Question: What is the sum of 3606 and 4074?
+
+Answer: ",7680
+"Question: What is the sum of 6853 and 5812?
+
+Answer: ",12665
+"Question: What is the sum of 1847 and 3921?
+
+Answer: ",5768
+"Question: What is the sum of 3878 and 1306?
+
+Answer: ",5184
+"Question: What is the sum of 4260 and 4497?
+
+Answer: ",8757
+"Question: What is the sum of 5541 and 5730?
+
+Answer: ",11271
+"Question: What is the sum of 9942 and 2316?
+
+Answer: ",12258
+"Question: What is the sum of 7238 and 7314?
+
+Answer: ",14552
+"Question: What is the sum of 8154 and 8160?
+
+Answer: ",16314
+"Question: What is the sum of 6917 and 8053?
+
+Answer: ",14970
+"Question: What is the sum of 4856 and 5178?
+
+Answer: ",10034
+"Question: What is the sum of 2986 and 9603?
+
+Answer: ",12589
+"Question: What is the sum of 8383 and 3793?
+
+Answer: ",12176
+"Question: What is the sum of 4446 and 9651?
+
+Answer: ",14097
+"Question: What is the sum of 9614 and 3130?
+
+Answer: ",12744
+"Question: What is the sum of 4734 and 8379?
+
+Answer: ",13113
+"Question: What is the sum of 6113 and 9632?
+
+Answer: ",15745
+"Question: What is the sum of 7941 and 5549?
+
+Answer: ",13490
+"Question: What is the sum of 5550 and 5151?
+
+Answer: ",10701
+"Question: What is the sum of 1975 and 9940?
+
+Answer: ",11915
+"Question: What is the sum of 8312 and 9271?
+
+Answer: ",17583
+"Question: What is the sum of 5835 and 1618?
+
+Answer: ",7453
+"Question: What is the sum of 7140 and 9550?
+
+Answer: ",16690
+"Question: What is the sum of 8481 and 3358?
+
+Answer: ",11839
+"Question: What is the sum of 5489 and 1683?
+
+Answer: ",7172
+"Question: What is the sum of 1530 and 7727?
+
+Answer: ",9257
+"Question: What is the sum of 8929 and 1551?
+
+Answer: ",10480
+"Question: What is the sum of 9511 and 3203?
+
+Answer: ",12714
+"Question: What is the sum of 2544 and 4135?
+
+Answer: ",6679
+"Question: What is the sum of 2448 and 6605?
+
+Answer: ",9053
+"Question: What is the sum of 7950 and 2995?
+
+Answer: ",10945
+"Question: What is the sum of 4223 and 5785?
+
+Answer: ",10008
+"Question: What is the sum of 6770 and 7277?
+
+Answer: ",14047
+"Question: What is the sum of 8092 and 7052?
+
+Answer: ",15144
+"Question: What is the sum of 8574 and 9055?
+
+Answer: ",17629
+"Question: What is the sum of 6560 and 8452?
+
+Answer: ",15012
+"Question: What is the sum of 9097 and 3622?
+
+Answer: ",12719
+"Question: What is the sum of 1162 and 7798?
+
+Answer: ",8960
+"Question: What is the sum of 6946 and 8070?
+
+Answer: ",15016
+"Question: What is the sum of 2736 and 9810?
+
+Answer: ",12546
+"Question: What is the sum of 9265 and 8880?
+
+Answer: ",18145
+"Question: What is the sum of 1959 and 4149?
+
+Answer: ",6108
+"Question: What is the sum of 9878 and 2610?
+
+Answer: ",12488
+"Question: What is the sum of 1595 and 6364?
+
+Answer: ",7959
+"Question: What is the sum of 8124 and 5052?
+
+Answer: ",13176
+"Question: What is the sum of 5064 and 2182?
+
+Answer: ",7246
+"Question: What is the sum of 5259 and 6973?
+
+Answer: ",12232
+"Question: What is the sum of 5130 and 5867?
+
+Answer: ",10997
+"Question: What is the sum of 1576 and 9848?
+
+Answer: ",11424
+"Question: What is the sum of 9267 and 9955?
+
+Answer: ",19222
+"Question: What is the sum of 1622 and 6380?
+
+Answer: ",8002
+"Question: What is the sum of 5702 and 6428?
+
+Answer: ",12130
+"Question: What is the sum of 9362 and 3386?
+
+Answer: ",12748
+"Question: What is the sum of 3057 and 1677?
+
+Answer: ",4734
+"Question: What is the sum of 2554 and 9661?
+
+Answer: ",12215
+"Question: What is the sum of 3990 and 1751?
+
+Answer: ",5741
+"Question: What is the sum of 2104 and 8964?
+
+Answer: ",11068
+"Question: What is the sum of 9691 and 2597?
+
+Answer: ",12288
+"Question: What is the sum of 3868 and 1284?
+
+Answer: ",5152
+"Question: What is the sum of 2604 and 9545?
+
+Answer: ",12149
+"Question: What is the sum of 4602 and 6407?
+
+Answer: ",11009
+"Question: What is the sum of 7809 and 8624?
+
+Answer: ",16433
+"Question: What is the sum of 5282 and 7434?
+
+Answer: ",12716
+"Question: What is the sum of 5699 and 5349?
+
+Answer: ",11048
+"Question: What is the sum of 5197 and 9664?
+
+Answer: ",14861
+"Question: What is the sum of 6193 and 1116?
+
+Answer: ",7309
+"Question: What is the sum of 4472 and 3492?
+
+Answer: ",7964
+"Question: What is the sum of 8867 and 4164?
+
+Answer: ",13031
+"Question: What is the sum of 5522 and 4015?
+
+Answer: ",9537
+"Question: What is the sum of 1284 and 3591?
+
+Answer: ",4875
+"Question: What is the sum of 1270 and 6248?
+
+Answer: ",7518
+"Question: What is the sum of 4881 and 1132?
+
+Answer: ",6013
+"Question: What is the sum of 1040 and 5064?
+
+Answer: ",6104
+"Question: What is the sum of 6533 and 7635?
+
+Answer: ",14168
+"Question: What is the sum of 2153 and 4945?
+
+Answer: ",7098
+"Question: What is the sum of 6510 and 6071?
+
+Answer: ",12581
+"Question: What is the sum of 3155 and 4086?
+
+Answer: ",7241
+"Question: What is the sum of 5762 and 6157?
+
+Answer: ",11919
+"Question: What is the sum of 5290 and 8849?
+
+Answer: ",14139
+"Question: What is the sum of 5981 and 2508?
+
+Answer: ",8489
+"Question: What is the sum of 3236 and 5042?
+
+Answer: ",8278
+"Question: What is the sum of 3086 and 8873?
+
+Answer: ",11959
+"Question: What is the sum of 1267 and 3052?
+
+Answer: ",4319
+"Question: What is the sum of 2069 and 5455?
+
+Answer: ",7524
+"Question: What is the sum of 8017 and 8614?
+
+Answer: ",16631
+"Question: What is the sum of 1630 and 9551?
+
+Answer: ",11181
+"Question: What is the sum of 4589 and 1882?
+
+Answer: ",6471
+"Question: What is the sum of 8735 and 9210?
+
+Answer: ",17945
+"Question: What is the sum of 8154 and 1590?
+
+Answer: ",9744
+"Question: What is the sum of 3018 and 3473?
+
+Answer: ",6491
+"Question: What is the sum of 9974 and 5321?
+
+Answer: ",15295
+"Question: What is the sum of 1801 and 1925?
+
+Answer: ",3726
+"Question: What is the sum of 5401 and 2306?
+
+Answer: ",7707
+"Question: What is the sum of 4337 and 2111?
+
+Answer: ",6448
+"Question: What is the sum of 3419 and 8917?
+
+Answer: ",12336
+"Question: What is the sum of 5819 and 9798?
+
+Answer: ",15617

@@ -1,0 +1,6 @@
+transformers
+pandas
+accelerate
+datasets
+peft
+tensorboard
