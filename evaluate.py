@@ -50,7 +50,6 @@ def evaluate(model, tokenizer, dataset, device, max_length=64):
 
     accuracy = np.mean(np.abs(np.array(output_nums) == np.array(tokenized_dataset['answers'])))
     mean_absolute_error = np.mean(np.abs(np.array(output_nums) - np.array(tokenized_dataset['answers'])))
-    print(predictions[:5])
     return accuracy, mean_absolute_error, predictions
 
 def tokenize(batch, tokenizer, max_length):
