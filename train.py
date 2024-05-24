@@ -22,11 +22,11 @@ def preprocess_logits_for_metrics(logits, labels):
 def extract_answer_from_prediction(prediction):
     # Assumes that the answer number is the first word after "Answer: "
     # If "Answer: " is not present, or the next word is not a number assign answer to be 0
-    if "Answer: " not in prediction:
+    if "Answer:" not in prediction:
         return 0
     else:
         try:
-            answer = int(prediction.split("Answer: ")[1].strip().split(" "))
+            answer = int(prediction.split("Answer:")[1].strip().split(" ")[0])
         except:
             answer = 0
 
